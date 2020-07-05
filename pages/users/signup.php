@@ -49,6 +49,7 @@ if(empty($_SESSION)) {
             }
         } else {
             ?>
+            
             <div class="danger">
                 Erreur : Tous les champs sont obligatoires.
             </div>
